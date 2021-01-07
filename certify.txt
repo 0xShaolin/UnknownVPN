@@ -1,0 +1,7 @@
+I, ______________, certify that the members of the L33TSTR33T CyberSecurity Collective have audited the site while following responsible disclosure and legal guidelines. No harm was caused to any services ran on ___________.
+
+I permit the members of the L33TSTR33T CyberSecurity Collective to practice responsible disclosure of the vulnerabilities found.
+
+I acknowledge that this document is legally binding and no charges will be pressed against the Collective.
+
+Signed, ____________
